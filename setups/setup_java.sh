@@ -16,7 +16,7 @@ NC='\033[0m' # No Color
 
 # JDKのバージョンとダウンロードURL
 JDK_VERSION="21"
-JDK_URL="https://download.oracle.com/java/$JDK_VERSION/latest/jdk-$JDK_VERSION_linux-x64_bin.tar.gz"
+JDK_URL="https://download.oracle.com/java/$JDK_VERSION/latest/jdk-21_linux-x64_bin.tar.gz"
 
 
 # インストール先のディレクトリ
